@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="10" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="mi_tileset" tilewidth="16" tileheight="16" tilecount="12" columns="2">
+  <image source="mi_tileset.png" width="32" height="96"/>
+ </tileset>
+ <layer name="walls" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztldEOgCAIRan8/2/uodwcw7wp1Kx7Np5kKHicIoQQQsh/2d4+APkcSQ6v6BbxpPQqwq31DIJh3cGMb1575d0DvcKpzf+J/yQF1NNeoT0guaNezfhWe7iafeR/kkni61bNK6QHJJdetWnNPfI/yUR4tQCRGc1D6uh1K79WxwLprzesfax99TpaEzk/kluuI3Ut7s5mBw+eAT0=
+  </data>
+ </layer>
+ <layer name="coins" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt1UsKwCAMRdFMsv8td+KokBLbNH2h94AgqJiPoBkAYBJfA3WoZ4zaIOMv70Qpzy/+Arf6e5Vq2k01d9W48C763kup3kqx3HWVw3mt6/98ekd0flK/dmLN7PVgDig6AMC4AI0=
+  </data>
+ </layer>
+ <layer name="indestructible" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt1cEJACEQA0AR+6/Zv5zgQ0UuM5AKNmRLAQAStSGw29ixr6yok/BfKbuU3ukTf+j2X3vtbqlduiFhkwDYowNaewB3
+  </data>
+ </layer>
+ <layer name="super" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJAAAIBLGv3H9kF7AVQZIJrroEAAAAuFDXAQDPTZ/1XjY1Y5AAEw==
+  </data>
+ </layer>
+ <layer name="teletransportacion" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt1jENAAAIBLHf8O8YFQRCWgU3XgIAMKO2AwAAeM9zApc0oLQADw==
+  </data>
+ </layer>
+ <layer name="bajar" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt1TENAAAIBLEf8a8YEQwE0iq47RIAAACmajsAAB7wU65rfjAAEQ==
+  </data>
+ </layer>
+ <layer name="rapido" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7C9+DeMgt2EpFXQBAAAAABo5joAvLE9IAAK
+  </data>
+ </layer>
+ <layer name="lento" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAIA6Dd9g9siukDCUgAAAAAgKb5DgAnFj6oAAs=
+  </data>
+ </layer>
+ <layer name="ganar" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7D9+PeLjCXQKmgCAD9NOwAAAACcsswUAAw=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cuadros.svg"
+   inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+   inkscape:export-xdpi="5.7600002"
+   inkscape:export-ydpi="5.7600002">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4453"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4455"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4184"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4181"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4541164"
+     inkscape:cx="372.04724"
+     inkscape:cy="-317.60513"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4493"
+       transform="translate(-124.27423,-137.38074)"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png">
+      <rect
+         y="137.164"
+         x="212.13203"
+         height="250"
+         width="250"
+         id="rect4138"
+         style="opacity:0.86000001;fill:#87deaa;fill-opacity:0.94117647" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4171"
+         d="m 462.13203,137.164 0,250 -250,0 z"
+         style="opacity:0.86000001;fill:#217844;fill-opacity:0.94117647" />
+      <rect
+         style="opacity:0.86000001;fill:#5fd38d;fill-opacity:0.94117647"
+         id="rect4140"
+         width="144.94414"
+         height="144.94414"
+         x="264.65997"
+         y="189.69194" />
+    </g>
+    <g
+       id="g4503"
+       transform="translate(125.72578,-145.57976)"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png">
+      <rect
+         style="opacity:0.86000001;fill:#beb7c8;fill-opacity:0.94117647"
+         id="rect4475"
+         width="250"
+         height="250"
+         x="212.13203"
+         y="395.76306" />
+      <path
+         style="opacity:0.86000001;fill:#3e3748;fill-opacity:0.94117647"
+         d="m 462.13203,395.76305 0,250 -250,0 z"
+         id="path4477"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         y="448.29099"
+         x="264.65997"
+         height="144.94414"
+         width="144.94414"
+         id="rect4479"
+         style="opacity:0.86000001;fill:#7c6f91;fill-opacity:0.94117647" />
+    </g>
+    <g
+       id="g4498"
+       transform="translate(-386.91389,110.99899)"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png">
+      <rect
+         y="139.18431"
+         x="474.7717"
+         height="250"
+         width="250"
+         id="rect4481"
+         style="opacity:0.86000001;fill:#e9afc6;fill-opacity:0.94117647" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4483"
+         d="m 724.77169,139.1843 0,250 -250,0 z"
+         style="opacity:0.86000001;fill:#782144;fill-opacity:0.94117647" />
+      <rect
+         style="opacity:0.86000001;fill:#d35f8d;fill-opacity:0.94117647"
+         id="rect4485"
+         width="144.94414"
+         height="144.94414"
+         x="527.29962"
+         y="191.71223" />
+    </g>
+    <g
+       id="g4508"
+       transform="translate(-138.93419,-393.95949)"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png">
+      <rect
+         style="opacity:0.86000001;fill:#afdde9;fill-opacity:0.94117647"
+         id="rect4487"
+         width="250"
+         height="250"
+         x="476.79199"
+         y="393.74277" />
+      <path
+         style="opacity:0.86000001;fill:#216778;fill-opacity:0.94117647"
+         d="m 726.792,393.74274 0,250 -250,0 z"
+         id="path4489"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         y="446.27069"
+         x="529.31995"
+         height="144.94414"
+         width="144.94414"
+         id="rect4491"
+         style="opacity:0.86000001;fill:#5fbcd3;fill-opacity:0.94117647" />
+    </g>
+    <g
+       id="g4525"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002"
+       transform="translate(-124.27423,113.81928)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png">
+      <rect
+         ry="0"
+         y="637.16406"
+         x="212.13203"
+         height="250"
+         width="250"
+         id="rect4517"
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647" />
+      <rect
+         ry="111.11678"
+         y="651.0473"
+         x="226.01524"
+         height="222.23357"
+         width="222.23357"
+         id="rect4515"
+         style="opacity:0.86000001;fill:#00ff00;fill-opacity:0.94117647" />
+    </g>
+    <g
+       id="g4199"
+       transform="translate(-377.07128,-178.28137)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002">
+      <rect
+         ry="0"
+         y="678.86469"
+         x="464.92908"
+         height="250"
+         width="250"
+         id="rect4517-8"
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647" />
+      <rect
+         ry="111.11678"
+         y="692.74792"
+         x="478.81229"
+         height="222.23357"
+         width="222.23357"
+         id="rect4515-2"
+         style="opacity:0.86000001;fill:#ffff00;fill-opacity:0.94117647" />
+    </g>
+    <g
+       id="g4227"
+       transform="translate(129.76638,-381.03765)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002">
+      <rect
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647"
+         id="rect4205"
+         width="250"
+         height="250"
+         x="208.09143"
+         y="881.62097"
+         ry="0" />
+      <rect
+         style="opacity:0.86000001;fill:#ff2a2a;fill-opacity:0.94117647"
+         id="rect4207"
+         width="222.23357"
+         height="222.23357"
+         x="221.97464"
+         y="895.50421"
+         ry="111.11678" />
+    </g>
+    <g
+       id="g4252"
+       transform="translate(-325.26912,239.47822)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002">
+      <rect
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647"
+         id="rect4246"
+         width="250"
+         height="250"
+         x="413.12692"
+         y="761.90515"
+         ry="0" />
+      <rect
+         rx="52.527931"
+         style="opacity:0.86000001;fill:#e3f4d7;fill-opacity:0.94117647"
+         id="rect4248"
+         width="222.23357"
+         height="222.23357"
+         x="427.01013"
+         y="775.78839"
+         ry="111.11678" />
+    </g>
+    <g
+       id="g4193"
+       transform="translate(246.47722,-241.23663)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002">
+      <rect
+         ry="0"
+         y="992.21997"
+         x="91.380592"
+         height="250"
+         width="250"
+         id="rect4187"
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647" />
+      <rect
+         ry="111.11678"
+         y="1006.1032"
+         x="105.2638"
+         height="222.23357"
+         width="222.23357"
+         id="rect4189"
+         style="opacity:0.86000001;fill:#ac9393;fill-opacity:0.94117647"
+         rx="52.527931" />
+    </g>
+    <g
+       id="g4205"
+       transform="translate(1.502493,5.6406362)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002">
+      <rect
+         ry="0"
+         y="995.74274"
+         x="336.35532"
+         height="250"
+         width="250"
+         id="rect4199"
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647" />
+      <rect
+         ry="111.11678"
+         y="1009.626"
+         x="350.23853"
+         height="222.23357"
+         width="222.23357"
+         id="rect4201"
+         style="opacity:0.86000001;fill:#2b2200;fill-opacity:0.94117647"
+         rx="52.527931" />
+    </g>
+    <g
+       id="g4228"
+       transform="translate(-70.71068,-30.658006)"
+       inkscape:export-filename="C:\Users\Renan\Desktop\Lab Progra\libGDX\Koalio\android\assets\mi_tileset.png"
+       inkscape:export-xdpi="5.7600002"
+       inkscape:export-ydpi="5.7600002">
+      <rect
+         style="opacity:0.86000001;fill:none;fill-opacity:0.94117647"
+         id="rect4222"
+         width="250"
+         height="250"
+         x="158.56848"
+         y="1282.4414"
+         ry="0" />
+      <rect
+         style="opacity:0.86000001;fill:#ffaaee;fill-opacity:0.94117647"
+         id="rect4224"
+         width="222.23357"
+         height="222.23357"
+         x="172.45169"
+         y="1296.3246"
+         ry="111.11678" />
+    </g>
+  </g>
+</svg>
